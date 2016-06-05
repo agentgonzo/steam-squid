@@ -1,1 +1,2 @@
 ^http:\/\/.*cs.steampowered.com/(.*)	http://cs.steampowered.com.internal/$1
+^http:\/\/.*.steampipe.steamcontent.com/(.*)	http://cs.steampowered.com.internal/$1
