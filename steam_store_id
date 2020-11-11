@@ -1,3 +1,4 @@
-^http:\/\/.*cs.steampowered.com\/([^\?]*)\.*		http://cs.steampowered.com.internal/$1
-^http:\/\/.*.steampipe.steamcontent.com\/([^\?]*)\.*	http://cs.steampowered.com.internal/$1
-^http:\/\/.*.steamcontent.com\/([^\?]*)\.*		http://cs.steampowered.com.internal/$1
+^http:\/\/.*cs.steampowered.com\/.*depot([^\?]*)\.*		http://cs.steampowered.com.internal/$1
+^http:\/\/.*.steampipe.steamcontent.com\/.*depot([^\?]*)\.*	http://cs.steampowered.com.internal/$1
+^http:\/\/.*.steamcontent.com\/.*depot([^\?]*)\.*		http://cs.steampowered.com.internal/$1
+^http:\/\/.*.cqloud.com\/.*depot([^\?]*)\.*			http://cs.steampowered.com.internal/$1
