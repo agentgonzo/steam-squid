@@ -1,1 +1,1 @@
-^http:\/\/.*depot\/([^\?]*)\.*  http://cs.steampowered.com.internal/$1
+^http:\/\/.*depot\/([^\?]*)\.*	http://cs.steampowered.com.internal/$1
